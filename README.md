@@ -1,2 +1,2 @@
 # CLI-Calculator
-CLI Calculator in Python
+CLI Calculator in Python with POO
